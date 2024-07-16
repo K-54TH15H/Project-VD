@@ -1,13 +1,17 @@
 body{
     margin: 0px;
+    background-color: rgb(192, 125, 37);
 }
+
 nav{
     color:aquamarine;
-    background-color: black;
+    background-color: rgb(105, 32, 168);
     height: 15%;
 }
 
 nav #logo{
-    height:90%;
+    size: 200%;
+    height:98%;
     width:auto;
+    border:2px solid rgb(73, 177, 85)
 }
