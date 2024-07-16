@@ -17,7 +17,6 @@ nav{
 
 nav #logo{
 
-    size: 200%;
     height:98%;
     width:auto;
     border:2px solid rgb(0, 0, 0);
@@ -25,11 +24,17 @@ nav #logo{
 }
 
 nav #title{
-    
-    background-color: rgb(248, 146, 146);
-    text-align: center;
+
+    height:98%;
+    display: grid;
+    place-items: center;
+    float: left;
+    font-family: Impact;
+    font-size: 3em;
+
     position: relative;
-    top: 33%;
-    bottom: 33%;
-    font-size: 2em;
+    left: 2%;
+
+    color:rgb(28, 170, 28);
+
 }
