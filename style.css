@@ -6,3 +6,8 @@ nav{
     background-color: black;
     height: 15%;
 }
+
+nav #logo{
+    height:90%;
+    width:auto;
+}
